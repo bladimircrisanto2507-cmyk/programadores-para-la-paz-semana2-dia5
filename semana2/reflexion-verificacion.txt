@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: brayan bladimir solarte gilon
+Fecha: 02/05/2026
+Nombre de la rama:brayan-bladimir
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -11,4 +11,5 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-Respuesta:
+Respuesta:Desde mi punto de vista, no es buena idea compartir información en internet sin antes revisarla, porque puede ser incorrecta y eso puede generar malentendidos. Muchas personas publican cosas sin confirmar si son reales y eso termina afectando a otros. Por eso es mejor tomarse el tiempo de investigar un poco y asegurarse de que la información venga de una fuente confiable. También creo que esto tiene que ver con el compromiso que tenemos como usuarios digitales, ya que lo que publicamos puede influir en otras personas. Actividades como esta nos ayudan a ser más ordenados y a manejar mejor la información. En conclusión, es importante ser cuidadosos y responsables antes de compartir cualquier contenido.
+
