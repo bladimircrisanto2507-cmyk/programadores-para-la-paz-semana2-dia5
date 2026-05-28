@@ -1,0 +1,5 @@
+La ruta POST /reporte permite que las personas envíen información al servidor mediante un mensaje.
+
+Cuando el usuario envía un reporte, el sistema responde indicando que la información fue recibida correctamente.
+
+Este tipo de ruta puede utilizarse en aplicaciones comunitarias para registrar avisos, problemas del barrio o alertas importantes enviadas por los ciudadanos.
