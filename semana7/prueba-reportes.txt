@@ -1,0 +1,7 @@
+Cuando se consulta la ruta GET /reportes el servidor muestra la lista de reportes guardados.
+
+Al inicio la lista aparece vacía porque todavía no hay información registrada.
+
+Cuando se envía un reporte usando POST, el servidor guarda los datos en el array y después pueden consultarse con GET.
+
+Esto permite ver los reportes registrados mientras el servidor está funcionando.

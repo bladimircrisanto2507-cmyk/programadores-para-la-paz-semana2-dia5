@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+"tipo": "Infraestructura",
+"descripcion": "Una calle tiene un problema de iluminación"
+}
+
+Ejemplo 2:
+
+{
+"tipo": "Ambiente",
+"descripcion": "Hay acumulación de basura en un parque"
+}

@@ -12,7 +12,6 @@ main {
 
 .contenedor {
   background-color: #ffffff;
-  ;
   padding: 24px;
   border-radius: 10px;
   border: 2px solid #ffb74d;
@@ -62,4 +61,7 @@ button {
   color: white;
   border: none;
   border-radius: 6px;
-}
+
+  button:hover {
+    background-color: #ef6c00;
+  }

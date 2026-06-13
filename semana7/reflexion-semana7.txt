@@ -1,0 +1,15 @@
+Las plataformas tecnológicas ayudan a las comunidades porque permiten registrar información de manera organizada.
+
+Los ciudadanos pueden reportar problemas y las instituciones pueden consultar esos datos.
+
+Esto facilita conocer las necesidades de una comunidad.
+
+También ayuda a tomar mejores decisiones usando información real.
+
+Las APIs permiten conectar diferentes sistemas y compartir datos fácilmente.
+
+Gracias a estas herramientas se pueden crear soluciones útiles para las personas.
+
+La tecnología puede ayudar a mejorar la comunicación entre ciudadanos y organizaciones.
+
+Por eso es importante aprender a construir este tipo de aplicaciones.
