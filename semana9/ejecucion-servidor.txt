@@ -1,0 +1,9 @@
+Cuando ejecuto node server.js se inicia el servidor creado con Express.
+
+En la terminal aparece el mensaje indicando que el servidor está ejecutándose en el puerto 3000.
+
+La ruta principal muestra un mensaje confirmando que el servidor funciona correctamente.
+
+La ruta /estado devuelve información sobre el estado del servicio.
+
+Esto permite comprobar que la aplicación está activa y respondiendo solicitudes.

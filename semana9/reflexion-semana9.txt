@@ -1,0 +1,13 @@
+Es importante que las plataformas comunitarias tengan servidores estables porque muchas personas pueden necesitar usarlas al mismo tiempo.
+
+Un servidor que funciona correctamente permite que la información llegue de forma rápida y segura.
+
+También ayuda a evitar problemas cuando los usuarios realizan consultas o envían datos.
+
+La seguridad permite proteger la información de las personas que participan.
+
+Los registros o logs ayudan a encontrar errores y mejorar el sistema.
+
+Una plataforma confiable genera más confianza en la comunidad.
+
+Por eso es necesario mantener los servicios organizados, seguros y funcionando correctamente.
