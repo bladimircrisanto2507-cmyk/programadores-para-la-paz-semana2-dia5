@@ -1,0 +1,9 @@
+1. No compartir datos personales de los usuarios.
+
+2. Usar contraseñas seguras.
+
+3. Proteger las cuentas y credenciales.
+
+4. Mantener conexiones seguras.
+
+5. Controlar quién puede acceder a la información.
