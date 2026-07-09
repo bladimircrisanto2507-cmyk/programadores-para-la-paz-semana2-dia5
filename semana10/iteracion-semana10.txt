@@ -1,0 +1,13 @@
+Las dos tareas que realizaría primero serían:
+
+1. Permitir que los ciudadanos registren un reporte.
+
+2. Enviar una notificación al coordinador cuando llegue un nuevo reporte.
+
+Estas tareas son las más importantes porque permiten recibir la información y avisar rápidamente para comenzar el seguimiento.
+
+Para mí una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Se realizaron pruebas y no presenta errores.
+- Quedó guardada y publicada en GitHub.
