@@ -1,0 +1,22 @@
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- fecha_registro
+
+Propósito:
+Guardar la información básica de las personas que utilizan la plataforma para participar en las actividades comunitarias.
+
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Registrar los reportes o problemas que los usuarios desean informar para que puedan ser revisados y recibir seguimiento.
